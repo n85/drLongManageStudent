@@ -1,0 +1,52 @@
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\bin\Debug\QLDiemSV.exe.config
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\bin\Debug\QLDiemSV.exe
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\bin\Debug\QLDiemSV.pdb
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\obj\Debug\QLDiemSV.csproj.AssemblyReference.cache
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\obj\Debug\QLDiemSV.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\obj\Debug\QLDiemSV.GUI.frmLogin.resources
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\obj\Debug\QLDiemSV.Properties.Resources.resources
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\obj\Debug\QLDiemSV.csproj.GenerateResource.cache
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\obj\Debug\QLDiemSV.csproj.CoreCompileInputs.cache
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\obj\Debug\QLDiemSV.exe
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\obj\Debug\QLDiemSV.pdb
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\bin\Debug\System.Security.AccessControl.dll
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\bin\Debug\System.Security.Permissions.dll
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\bin\Debug\System.Security.Principal.Windows.dll
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\bin\Debug\System.Security.AccessControl.xml
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\bin\Debug\System.Security.Permissions.xml
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\bin\Debug\System.Security.Principal.Windows.xml
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\obj\Debug\QLDiemSV.csproj.CopyComplete
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\obj\Debug\QLDiemSV.GUI.frmMain.resources
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\obj\Debug\QLDiemSV.GUI.frmCapNhatTaiKhoan.resources
+D:\OneDrive - Thuyloi University\@LT-CNTT\2022-HK2\LT Windows\Code\FirstApp\QLDiemSV\obj\Debug\QLDiemSV.GUI.frmQLNguoiDung.resources
+C:\Users\Admin\Downloads\QLDiemSV\bin\Debug\QLDiemSV.exe.config
+C:\Users\Admin\Downloads\QLDiemSV\bin\Debug\QLDiemSV.exe
+C:\Users\Admin\Downloads\QLDiemSV\bin\Debug\QLDiemSV.pdb
+C:\Users\Admin\Downloads\QLDiemSV\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\Downloads\QLDiemSV\obj\Debug\QLDiemSV.GUI.frmCapNhatTaiKhoan.resources
+C:\Users\Admin\Downloads\QLDiemSV\obj\Debug\QLDiemSV.GUI.frmLogin.resources
+C:\Users\Admin\Downloads\QLDiemSV\obj\Debug\QLDiemSV.GUI.frmMain.resources
+C:\Users\Admin\Downloads\QLDiemSV\obj\Debug\QLDiemSV.GUI.frmQLNguoiDung.resources
+C:\Users\Admin\Downloads\QLDiemSV\obj\Debug\QLDiemSV.Properties.Resources.resources
+C:\Users\Admin\Downloads\QLDiemSV\obj\Debug\QLDiemSV.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QLDiemSV\obj\Debug\QLDiemSV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QLDiemSV\obj\Debug\QLDiemSV.csproj.CopyComplete
+C:\Users\Admin\Downloads\QLDiemSV\obj\Debug\QLDiemSV.exe
+C:\Users\Admin\Downloads\QLDiemSV\obj\Debug\QLDiemSV.pdb
+D:\drLongManageStudent\bin\Debug\QLDiemSV.exe.config
+D:\drLongManageStudent\bin\Debug\QLDiemSV.exe
+D:\drLongManageStudent\bin\Debug\QLDiemSV.pdb
+D:\drLongManageStudent\bin\Debug\System.Security.Principal.Windows.dll
+D:\drLongManageStudent\obj\Debug\QLDiemSV.csproj.AssemblyReference.cache
+D:\drLongManageStudent\obj\Debug\QLDiemSV.GUI.frmCapNhatTaiKhoan.resources
+D:\drLongManageStudent\obj\Debug\QLDiemSV.GUI.frmLogin.resources
+D:\drLongManageStudent\obj\Debug\QLDiemSV.GUI.frmMain.resources
+D:\drLongManageStudent\obj\Debug\QLDiemSV.GUI.frmQLNguoiDung.resources
+D:\drLongManageStudent\obj\Debug\QLDiemSV.Properties.Resources.resources
+D:\drLongManageStudent\obj\Debug\QLDiemSV.csproj.GenerateResource.cache
+D:\drLongManageStudent\obj\Debug\QLDiemSV.csproj.CoreCompileInputs.cache
+D:\drLongManageStudent\obj\Debug\QLDiemSV.csproj.CopyComplete
+D:\drLongManageStudent\obj\Debug\QLDiemSV.exe
+D:\drLongManageStudent\obj\Debug\QLDiemSV.pdb
