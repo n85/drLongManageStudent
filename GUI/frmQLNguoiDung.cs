@@ -1,17 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using System.Data.SqlClient;
+﻿using QLDiemSV.BUS;
 using QLDiemSV.Entities;
-using System.Windows;
-
-using QLDiemSV.BUS;
+using System;
+using System.Collections.Generic;
+using System.Windows.Forms;
 
 
 
@@ -20,7 +11,7 @@ namespace QLDiemSV.GUI
     public partial class frmQLNguoiDung : Form
     {
         List<Users> lus;
-        QLNguoiDungBUS bus = new QLNguoiDungBUS(Program.strcon);
+        readonly QLNguoiDungBUS bus = new QLNguoiDungBUS(Program.strcon);
 
         public frmQLNguoiDung()
         {
@@ -77,13 +68,15 @@ namespace QLDiemSV.GUI
                     }
                     else
                     {
-                        Users nuser = new Users();
-                        nuser.UserID = txtUserID.Text;
-                        nuser.Password = txtPassword.Text;
-                        nuser.FullName = txtFullName.Text;
-                        nuser.Sex = cboSex.Text;
-                        nuser.PhoneNumber = txtPhoneNumber.Text;
-                        nuser.Email = txtEmail.Text;
+                        Users nuser = new Users
+                        {
+                            UserID = txtUserID.Text,
+                            Password = txtPassword.Text,
+                            FullName = txtFullName.Text,
+                            Sex = cboSex.Text,
+                            PhoneNumber = txtPhoneNumber.Text,
+                            Email = txtEmail.Text
+                        };
                         if (cboRole.SelectedItem.ToString() != "Admin")
                         {
                             nuser.Role = "Member";
@@ -103,13 +96,15 @@ namespace QLDiemSV.GUI
                 }
                 else if (flag == 1)
                 {
-                    Users editUser = new Users();
-                    editUser.UserID = txtUserID.Text;
-                    editUser.Password = txtPassword.Text;
-                    editUser.FullName = txtFullName.Text;
-                    editUser.Sex = cboSex.Text;
-                    editUser.PhoneNumber = txtPhoneNumber.Text;
-                    editUser.Email = txtEmail.Text;
+                    Users editUser = new Users
+                    {
+                        UserID = txtUserID.Text,
+                        Password = txtPassword.Text,
+                        FullName = txtFullName.Text,
+                        Sex = cboSex.Text,
+                        PhoneNumber = txtPhoneNumber.Text,
+                        Email = txtEmail.Text
+                    };
                     if (cboRole.SelectedItem.ToString() != "Admin")
                     {
                         editUser.Role = "Member";

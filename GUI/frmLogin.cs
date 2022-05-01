@@ -1,13 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using QLDiemSV.BUS;
+using System;
 using System.Windows.Forms;
-using QLDiemSV.BUS;
 
 
 
@@ -15,7 +8,7 @@ namespace QLDiemSV.GUI
 {
     public partial class frmLogin : Form
     {
-        LoginBUS bus = new LoginBUS(Program.strcon);
+        readonly LoginBUS bus = new LoginBUS(Program.strcon);
         
         public frmLogin()
         {

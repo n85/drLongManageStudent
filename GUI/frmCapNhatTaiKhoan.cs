@@ -7,7 +7,7 @@ namespace QLDiemSV.GUI
 {
     public partial class frmCapNhatTaiKhoan : Form
     {
-        CapNhatTKBUS ndbus = new CapNhatTKBUS(Program.strcon);
+        readonly CapNhatTKBUS ndbus = new CapNhatTKBUS(Program.strcon);
         public frmCapNhatTaiKhoan()
         {
             InitializeComponent();
